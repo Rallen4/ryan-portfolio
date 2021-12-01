@@ -152,7 +152,7 @@ ul#nav li a:active { background-color: transparent !important; }
 ul#nav li.current a { color: #d92e4d; }
 
 #about {
-   background: linear-gradient(to bottom right, #151515, #010101);
+   background: linear-gradient(to top, #020202, #141414);
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -368,7 +368,7 @@ ul#nav li.current a { color: #d92e4d; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: linear-gradient(to top, #020202, #303030);
+   background: linear-gradient(to top, #020202, #1d1d1d);
    padding-top: 90px;
    padding-bottom: 60px;
 }
