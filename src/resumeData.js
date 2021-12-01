@@ -31,14 +31,14 @@ let resumeData = {
         "specialization":"Masters of Business Administration",
         "MonthOfPassing":"May",
         "YearOfPassing":"2022",
-        "Achievements":"Concentration in Finance, Econmics, and Operations"
+        "Achievements":"Concentration in Finance, Economics, and Operations"
       },
       {
         "UniversityName":"Washington State University",
         "specialization":"B.B.A. Marketing",
         "MonthOfPassing":"May",
         "YearOfPassing":"2020",
-        "Achievements":"Rom J. Markin Scholarship Awardee"
+        "Achievements":"Rom J. Markin Scholarship Awardee; Minor in Psychology"
       }
     ],
     "work":[
@@ -57,7 +57,7 @@ let resumeData = {
         "Achievements":"Optimized exisiting websites' SEO via translation and analysis of data derived from experimental Google Advertisements."
       }
     ],
-    "skillsDescription":"HTML5, CSS, React, MySQL, Sequelize, Financial Trade Analysis (MACD, RSI, VOL Influx, O/I), Adobe Creative Cloud, Articulation & Communication",
+    "skillsDescription":"HTML5, CSS, JavaScript, React, Express, MySQL, Sequelize, GraphSQL, Mongoose, MongoDB, Financial Trade Analysis (MACD, RSI, VOL Influx, O/I), Adobe Creative Cloud, Articulation & Communication",
     "skills":[
 
     ],
