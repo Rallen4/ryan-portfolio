@@ -14,6 +14,7 @@
 
 ## Projects & Socials
 #### *Directly link your personal work and social pages for others to discover you!*
+#### **Note: Images found in this section are links -- right click (on desktop) to open links in new tab or press and hold (on mobile) to pop-open hyperlink modals**
 ![SocialPage](/public/images/socials.png)
 
 ## Upcoming
@@ -22,5 +23,5 @@
 
 ## GitHub Repository & Live Site
 * Ryan Allen: https://github.com/Rallen4/ryan-portfolio
-* Live Site: 
+* Live Site: https://life-of-ryan.herokuapp.com/
 
