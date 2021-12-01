@@ -368,7 +368,7 @@ ul#nav li.current a { color: #d92e4d; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: linear-gradient(to top, #020202, #555555);
+   background: linear-gradient(to top, #020202, #303030);
    padding-top: 90px;
    padding-bottom: 60px;
 }
