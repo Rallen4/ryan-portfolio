@@ -6,9 +6,8 @@ export default class ContactUs extends Component {
       <section id="contact">
           <div className="row section-head">
             <div className="ten columns">
-              {/* <p className="lead">
-              This is only the beginning.  
-              </p> */}
+              {<p className="lead">
+              </p> }
             </div>
           </div>
           <div className="row">

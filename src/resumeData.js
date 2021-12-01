@@ -47,7 +47,7 @@ let resumeData = {
         "specialization":"Co-Founder & CEO",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2019",
-        "Achievements":"$12K in sales in our first 3 months"
+        "Achievements":"Amazon FBA e-commerce & local retail. Networked wholesalers between New Jersey and Washington State & achieved $12K in sales by 2nd month."
       },
       {
         "CompanyName":"Professor Thomas Kokta",
@@ -64,25 +64,52 @@ let resumeData = {
     "portfolio":[
       {
         "name":"MetaMemeMarket",
-        "description":"mobileapp",
+        "description":"Buy, Sell, and Trade Meme's & NFT's",
         "imgurl":"images/METAMEME.png",
         "url":"https://meta-meme-market.herokuapp.com/"
       },
       {
         "name":"MetaCoin (coming soon!)",
-        "description":"mobileapp",  
-        "imgurl":"images/METACOIN.png"
+        "description":"The Future of Cryptocurrency ",  
+        "imgurl":"images/METACOIN.png",
+        "url":"https://github.com/Rallen4"
       },
       {
         "name":"Viewnify (coming soon!)",
-        "description":"mobileapp",
-        "imgurl":"images/Viewnify.png"
+        "description":"Everyone's Entertained",
+        "imgurl":"images/Viewnify.png",
+        "url":"https://github.com/Rallen4"
       },
       {
         "name":"AC:NH Tracker",
-        "description":"mobileapp",
-        "imgurl":"images/NewHorizonz.png"
-      }
+        "description":"Analyze Your  Achievements & Progressions",
+        "imgurl":"images/NewHorizonz.png",
+        "url":"https://rallen4.github.io/project1-animal-crossing/"
+      },
+      {
+        "name":"Instagram",
+        "description":"Designs by @ryanorpines",
+        "imgurl":"images/instagram.png",
+        "url":"https://www.instagram.com/ryanorpines/?hl=en"
+      },
+      {
+        "name":"Spotify",
+        "description":"Productions by @ryanorpines",
+        "imgurl":"images/spotify3.png",
+        "url":"https://open.spotify.com/artist/6s3QfYUOcGgtCTErfitptL?si=Lpua0H8kR0mPCUmjOxxIxA"
+      },
+      {
+        "name":"TikTok",
+        "description":"Visual Art, Gaming, & Music by @ryanorpines",
+        "imgurl":"images/tiktok.png",
+        "url":"https://www.tiktok.com/@ryanorpines?lang=en"
+      },
+      {
+        "name":"Twitch",
+        "description":"Apex Gaming: @ryanorpines",
+        "imgurl":"images/twitchy.jpeg",
+        "url":"https://www.twitch.tv/pines04"
+      },
     ],
     "testimonials":[
       {

@@ -68,7 +68,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #3ca6f5; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -90,7 +90,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #e2405b; }
 
 /* primary navigation */
 #nav-wrap ul, #nav-wrap li, #nav-wrap a {
@@ -368,7 +368,7 @@ ul#nav li.current a { color: #d92e4d; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: linear-gradient(to top, #020202, rgb(194, 194, 194));
+   background: linear-gradient(to top, #020202, #555555);
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -743,9 +743,9 @@ call-to-action .button {
 
 /* ------------------------------------------------------------------ */
 /* h. Contact Section
-/* ------------------------------------------------------------------ */
+/* ------------------------------------------------------------------ 
 
-/* #contact {
+ #contact {
    background: #191919;
    color: #636363;
 }
@@ -778,12 +778,12 @@ call-to-action .button {
    color: #EBEEEE;
    margin-bottom: 6px;
 }
+#contact .header-col { padding-top: 6px; }
+
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
 }
-#contact .header-col { padding-top: 6px; }
-
 
 /* contact form */
 #contact form { margin-bottom: 30px; }
@@ -794,6 +794,12 @@ call-to-action .button {
 	display: inline-block;
 	float: left;
    width: 26%;
+}
+#contact p.lead {
+    color: white;
+    font-size: 25px;
+    /* padding-left: 210px; */
+
 }
 #contact input,
 #contact textarea,
@@ -889,8 +895,8 @@ footer {
    position: relative;
 }
 
-footer a, footer a:visited { color: #525252; }
-footer a:hover, footer a:focus { color: #fff; }
+footer a, footer a:visited { color: #fff; }
+footer a:hover, footer a:focus { color: #e2405b; }
 
 /* copyright */
 footer .copyright {
@@ -927,7 +933,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #e2405b;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
